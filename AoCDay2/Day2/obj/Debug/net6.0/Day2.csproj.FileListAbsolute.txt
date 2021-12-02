@@ -1,0 +1,15 @@
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\Day2.exe
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\Day2.deps.json
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\Day2.runtimeconfig.json
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\Day2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\ref\Day2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\bin\Debug\net6.0\Day2.pdb
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.csproj.AssemblyReference.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.AssemblyInfoInputs.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.AssemblyInfo.cs
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.csproj.CoreCompileInputs.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\ref\Day2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.pdb
+D:\VS Projects\Advent-of-code-2021\AoCDay2\Day2\obj\Debug\net6.0\Day2.genruntimeconfig.cache
