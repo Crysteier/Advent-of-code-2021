@@ -1,0 +1,15 @@
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\Day4 puzzle 2.exe
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\Day4 puzzle 2.deps.json
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\Day4 puzzle 2.runtimeconfig.json
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\Day4 puzzle 2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\ref\Day4 puzzle 2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\bin\Debug\net6.0\Day4 puzzle 2.pdb
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.csproj.AssemblyReference.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.AssemblyInfoInputs.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.AssemblyInfo.cs
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.csproj.CoreCompileInputs.cache
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\ref\Day4 puzzle 2.dll
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.pdb
+D:\VS Projects\Advent-of-code-2021\AoCDay4\Day4 puzzle 2\obj\Debug\net6.0\Day4 puzzle 2.genruntimeconfig.cache
