@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS Projects\\Advent-of-code-2021\\AoCDay6\\Day6 puzzle 1\\Day6 puzzle 1.csproj",
-      "projectName": "Day6 puzzle 1",
-      "projectPath": "D:\\VS Projects\\Advent-of-code-2021\\AoCDay6\\Day6 puzzle 1\\Day6 puzzle 1.csproj",
+      "projectUniqueName": "D:\\VS Projects\\Advent-of-code-2021\\AoCDay6\\Day6 puzzle 1\\Day6 puzzle 1 and 2.csproj",
+      "projectName": "Day6 puzzle 1 and 2",
+      "projectPath": "D:\\VS Projects\\Advent-of-code-2021\\AoCDay6\\Day6 puzzle 1\\Day6 puzzle 1 and 2.csproj",
       "packagesPath": "C:\\Users\\guntel\\.nuget\\packages\\",
       "outputPath": "D:\\VS Projects\\Advent-of-code-2021\\AoCDay6\\Day6 puzzle 1\\obj\\",
       "projectStyle": "PackageReference",
