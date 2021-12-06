@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25d7ad12-79ee-4148-b047-1ff034d68f93": {
+      "ProjectGuid": "25d7ad12-79ee-4148-b047-1ff034d68f93",
+      "DisplayName": "Day5 puzzle 1",
+      "ColorIndex": 0
+    },
+    "095e4a9d-299b-40f7-a249-922295febdd8": {
+      "ProjectGuid": "095e4a9d-299b-40f7-a249-922295febdd8",
+      "DisplayName": "Day5 puzzle 2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

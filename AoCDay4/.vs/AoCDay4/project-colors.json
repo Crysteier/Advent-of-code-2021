@@ -5,7 +5,12 @@
       "ProjectGuid": "fe33d73d-1c45-4df4-b391-3eebd009361f",
       "DisplayName": "Day4",
       "ColorIndex": 0
+    },
+    "d0a36681-e119-4b96-b573-21ab8da51f76": {
+      "ProjectGuid": "d0a36681-e119-4b96-b573-21ab8da51f76",
+      "DisplayName": "Day4 puzzle 2",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
