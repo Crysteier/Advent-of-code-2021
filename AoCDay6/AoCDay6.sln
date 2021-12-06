@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6 puzzle 1", "Day6 puzzle 1\Day6 puzzle 1.csproj", "{2E0F7393-1569-45F8-AAD0-DB186D9CF274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day6 puzzle 1 and 2", "Day6 puzzle 1\Day6 puzzle 1 and 2.csproj", "{2E0F7393-1569-45F8-AAD0-DB186D9CF274}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
