@@ -1,0 +1,15 @@
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\Day7.exe
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\Day7.deps.json
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\Day7.runtimeconfig.json
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\Day7.dll
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\ref\Day7.dll
+C:\Repos\AoCDay7\Day7\bin\Debug\net6.0\Day7.pdb
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.csproj.AssemblyReference.cache
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.AssemblyInfoInputs.cache
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.AssemblyInfo.cs
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.csproj.CoreCompileInputs.cache
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.dll
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\ref\Day7.dll
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.pdb
+C:\Repos\AoCDay7\Day7\obj\Debug\net6.0\Day7.genruntimeconfig.cache
